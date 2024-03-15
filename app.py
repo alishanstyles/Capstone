@@ -16,7 +16,7 @@ st.set_page_config(page_title = "Obesity Risk Dataset Explorer", page_icon = ":c
 
 page = st.sidebar.selectbox("Select a Page", ["🏠Home", "🔢Data Overview", "💹EDA","⚙️Modeling" ])
 
-df = pd.read_csv('archive/ObesityDataSet.csv')
+df = pd.read_csv('ObesityDataSet.csv')
 
 if page == "🏠Home":
     st.title("🩺Obesity Risk Dataset Explorer App")
