@@ -24,7 +24,7 @@ I believe my model will generalize to new data because it performed well to data
 | Gender         | Gender of Participant                     |
 | Height         | Height of participant                     |
 | Weight         | Weight of participant                     |
-|family_history_with_overweight | If the participant family history with beign over weight |
+|family_history_with_overweight | If the participant family history with being over weight |
 |
 
 
@@ -51,4 +51,4 @@ Include key visualizations that highlight important aspects of the data. Use gra
 I would recomend more physical activities such as walking. For instance walking instead of driving or taking public transportation (when able) to get in some physical activity to help combat weight gain and obesity. Based on the data those who walk more and are more physically active have a lower weight and thus is less likely to be obese. I would also recommond not eating or not eating as much between meals. Those who consume less high caloric foods have a lower weight than those who consume more high caloric foods. Based on this would recommend consuming less high caloric foods to estabish a health weight. 
 
 ## Additional Information
-For furthe analysis I think having a column for location  would be nice. Even though we know the data is from individuals in Mexico, Peru, and Columbia it would be helpful to see the obesity levels and eating habits in each location. I believe it would also be good to have information on any physical or medical limitations so we can see what the average weight and obesity level is for each limitation as well as knowing the average calories consumed in a day.  
+For further analysis I think having a column for location  would be nice. Even though we know the data is from individuals in Mexico, Peru, and Columbia it would be helpful to see the obesity levels and eating habits in each location. I believe it would also be good to have information on any physical or medical limitations so we can see what the average weight and obesity level is for each limitation as well as knowing the average calories consumed in a day.  
