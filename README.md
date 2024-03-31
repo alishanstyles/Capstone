@@ -8,24 +8,25 @@
 I believe my model will generalize to new data because it performed well to data that it has not seen. I demonstrated feature engineering by selecting features relevant to the obesity levels. I also used visualizations such as a heat map to gain insight on the features with significant correlation to the target and improve the model. The baseline score was 16. I created a classificationn model using Height, Gender, Physical Activity Frequency (FAF), Weight, Time Using Technology Devices(TUE) as features. Using these features the test score for K Nearest Neighbors was 83. The test scores for Logistic Regression was 87 and the test score for Random Forest was 94. 
 
 ## Data Dictionary 
-| Abbreviation   | Full Form                                 |
-|:---------------|:------------------------------------------|
-|FAVC            | Frequent consumption of high caloric food |
-| FCVC           | Frequency of consumption of vegetables    |
-| NCP            | Number of main meals                      |
-| CAEC           | Consumption of food between meals         |
-| CH20           | Consumption of water daily                |
-| CALC           | Consumption of alcohol                    |
-| SCC            | Calories consumption monitoring           |
-| FAF            | Physical activity frequency               |
-| TUE            | Time using technology devices             |
-| MTRANS         | Transportation used                       |
-| Age            | Age of participant                        |
-| Gender         | Gender of Participant                     |
-| Height         | Height of participant                     |
-| Weight         | Weight of participant                     |
-|family_history_with_overweight | If the participant family history with being over weight |
-|
+| Abbreviation   | Full Form                                 | Types |
+|:---------------|-------------------------------------------|--------------
+| FAVC           | Frequent consumption of high caloric food | Bool     |
+| FCVC           | Frequency of consumption of vegetables    | Float    |
+| NCP            | Number of main meals                      | Integer  |
+| CAEC           | Consumption of food between meals         | Object   |
+| CH20           | Consumption of water daily                | Float    |
+| CALC           | Consumption of alcohol                    | Object   |
+| SCC            | Calories consumption monitoring           | Bool     |
+| FAF            | Physical activity frequency               | Float    |
+| TUE            | Time using technology devices             | Float    |
+| MTRANS         | Transportation used                       | Bool     |
+| Age            | Age of participant                        | Float    |
+| Gender         | Gender of Participant                     | Integer  |
+| Height         | Height of participant                     |Float     |
+| Weight         | Weight of participant                     |Float     |
+|family_history_with_overweight | If the participant family history with being over weight |  Object |
+|NObeyesdad      | Level of Obesity                          | Object   |
+|SMOKE           | Does the participant smoke                | Bool     |
 
 
 ## Executive Summary
