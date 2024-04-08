@@ -40,12 +40,12 @@ Include key visualizations that highlight important aspects of the data. Use gra
 #### Visualization 1:['Distribution of Obesity Levels by Gender']
 [Obesity Type II and Obesity Type I is most common in men. While Obesity Type III and insufficient weight is most common in women.]
 
-[Obesity and Cardiovascular Risk Data Analysis](counttplot.png)
+[Obesity and Cardiovascular Risk Data Analysis](visualizations/counttplot.png)
 
 #### Visualization 2:['Weight Based on Age']
 [Obesity Type III is more common in ages 20-30 and ranges from 100 - 160 kilograms. Obesity Type II is ranges between ages 20-45.]
 
-[Obesity and Cardiovascular Risk Data Analysis](scatterplot.png)
+[Obesity and Cardiovascular Risk Data Analysis](visualizations/scatterplot.png)
 
 ## Conclusions/Recommendations
 
